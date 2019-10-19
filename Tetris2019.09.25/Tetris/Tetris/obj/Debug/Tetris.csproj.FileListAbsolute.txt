@@ -1,0 +1,19 @@
+C:\Users\Maciek\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Maciek\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Maciek\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Maciek\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Admin\Dysk Google\C#\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
